@@ -40,6 +40,10 @@ img {
     color: var(--color-brand);
 }
 
+.bg-base {
+    background-color: var(--color-base);
+}
+
 .full-height {
     min-height: 100vh;
     height: 100%;
