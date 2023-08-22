@@ -96,7 +96,7 @@ img {
 .size {
     position: absolute; 
     bottom: 30px; 
-    right: 25px;
+    right: 30px;
 }
 
 @media (min-width: 992px) {
