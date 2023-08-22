@@ -93,6 +93,12 @@ img {
     color: var(--color-brand);
 }
 
+.size {
+    position: absolute; 
+    bottom: 30px; 
+    right: 25px;
+}
+
 @media (min-width: 992px) {
     .navbar {
         min-height: 100vb;
